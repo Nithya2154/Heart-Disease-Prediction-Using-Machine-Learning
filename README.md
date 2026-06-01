@@ -180,6 +180,9 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
+Nithyanantham G
+9080410927
+
 
 Built with ❤️ using Python, Streamlit, and scikit-learn.
 
